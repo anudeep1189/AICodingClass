@@ -1,0 +1,14 @@
+﻿Attempt these 10 easy questions based on the topics we have covered so far. Submit it before tomorrows class. 
+
+Use .py files to write those. Each program should be written in separate .py file
+
+1.  Write a program that takes a list of numbers and calculates the sum of all elements. Print the total sum. (Example: [10, 20, 30] → Sum: 60)
+2.  Given a list of numbers, find and display both the maximum and minimum values without using built-in max() and min() functions (or with them). (Example: [45, 23, 89, 12, 56] → Max: 89, Min: 12)
+3.  Write a program that takes a string as input and prints it in reverse order. (Example: "hello" → "olleh")
+4.  Create a list of numbers from 1 to 10. Extract and print the first 3 elements, last 3 elements, and middle 4 elements using slicing.
+5.  Given a list of numbers, ask the user to enter a number and count how many times that number appears in the list. Print the count. (Example: [1, 2, 3, 2, 2, 4] → Enter 2 → Count: 3)
+6.  Write a program that takes a test score (0-100) as input. Use nested if-elif-else statements to assign grades: A (90-100), B (80-89), C (below 80). Handle invalid scores (below 0 or above 100).
+7.  Use a while loop to iterate from 1 to 10. For each number, check if it's even. If even, square it; if odd, skip it. Calculate and print the total sum of all squared even numbers.
+8.  Given a list of numbers from 1 to 10, use dictionary comprehension to create a dictionary where only even numbers are keys and their squares are values. Print the resulting dictionary.
+9. You have a dictionary containing a list of students with their names and scores. For each student, calculate their average score. Based on the average, classify them as 'Excellent' (≥90), 'Good' (80-89), or 'Average' (<80). Store the results in a new dictionary and display them.
+10. Write a program that asks the user to choose an operation: 'even', 'odd', 'square', or 'cube'. Based on the choice, filter or transform a list of numbers [1-10] using list comprehension and the match/case statement. Display the appropriate results.
