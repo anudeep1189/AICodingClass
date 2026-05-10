@@ -124,14 +124,4 @@ dmypy.json
 
 #mac
 .DS_Store
-pvenv/pyvenv.cfg
-pvenv/bin/activate
-pvenv/bin/activate.csh
-pvenv/bin/activate.fish
-pvenv/bin/Activate.ps1
-pvenv/bin/pip
-pvenv/bin/pip3
-pvenv/bin/pip3.9
-pvenv/bin/python
-pvenv/bin/python3
-pvenv/bin/python3.9
+pvenv/
