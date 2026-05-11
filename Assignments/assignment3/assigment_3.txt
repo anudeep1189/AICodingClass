@@ -1,0 +1,19 @@
+﻿1. Write a program that takes a list of integers and separates them into three lists: positive, negative, and zero. Then print all three lists.
+
+2. Given a dictionary of item prices, ask the user for a budget and display which items can be bought within that budget.
+
+3. Create a program that reads a string and counts vowels and consonants separately. Ignore spaces and punctuation.
+
+4. Given a list of numbers, use a loop to build a new list containing only numbers whose digits sum to an even value.
+
+5. Write a program that takes two lists and prints the common elements, elements unique to the first list, and elements unique to the second list.
+
+6. Create a nested if/elif structure to evaluate a temperature reading: print “Cold” if below 10, “Cool” if 10–20, “Warm” if 21–30, and “Hot” if above 30. If the value is outside a realistic range (below -50 or above 60), print “Sensor error”.
+
+7. Using a while loop, generate Fibonacci numbers until the next number would exceed 200. Store them in a list and print the list.
+
+8. Given a list of words, use list comprehension to create a list of words that are palindromes and have length greater than 3.
+
+9. Write a program with a match/case statement that accepts a command like add, remove, update, or show and performs the corresponding operation on a dictionary of student names and marks.
+
+10. Take a set of numbers and print a new sorted list containing only the prime numbers from that set. Use a helper function or conditional logic to test primality.
